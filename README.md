@@ -81,3 +81,8 @@ GitHub: https://github.com/saikumarbelagal
 ---
 
 ⭐ If you find this project useful, consider giving it a star!
+## 🌐 Live Demo
+
+Try the application here:
+
+https://ai-resume-analyzer-e4kny4h82e3bvmqyf7foxg.streamlit.app/
