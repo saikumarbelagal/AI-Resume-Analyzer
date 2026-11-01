@@ -86,3 +86,19 @@ GitHub: https://github.com/saikumarbelagal
 Try the application here:
 
 https://ai-resume-analyzer-e4kny4h82e3bvmqyf7foxg.streamlit.app/
+
+## 📸 Application Screenshots
+
+### 1. Homepage
+![Resume Analyzer Homepage](homepage.png)
+
+### 2. ATS Resume Analysis
+![ATS Analysis Results](ats-results.png)
+
+### 3. Skill Analysis
+![Matched and Missing Skills](skill-analysis.png)
+
+## 🌐 Live Demo
+
+[Click here to try AI Resume Analyzer](https://ai-resume-analyzer-e4kny4h82e3bvmqyf7foxg.streamlit.app/)
+
